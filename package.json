@@ -1,0 +1,25 @@
+{
+  "name": "emails",
+  "version": "0.0.19",
+  "private": true,
+  "scripts": {
+    "build": "email build",
+    "dev": "email dev",
+    "export": "email export"
+  },
+  "dependencies": {
+    "@react-email/components": "0.0.16",
+    "currency.js": "^2.0.4",
+    "dayjs": "^1.11.10",
+    "react-email": "2.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.33",
+    "@types/react-dom": "18.2.14"
+  },
+  "description": "A live preview right in your browser so you don't need to keep sending real emails during development.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

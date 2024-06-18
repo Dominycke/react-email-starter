@@ -1,0 +1,912 @@
+﻿[
+    {
+        "PREFIJO": "1",
+        "CODIGO": "AA",
+        "COMPAÑÍA AEREA": "American Airlines"
+    },
+    {
+        "PREFIJO": "5",
+        "CODIGO": "CO",
+        "COMPAÑÍA AEREA": "Continental Airlines, Inc."
+    },
+    {
+        "PREFIJO": "6",
+        "CODIGO": "DL",
+        "COMPAÑÍA AEREA": "Delta Airlines Inc."
+    },
+    {
+        "PREFIJO": "7",
+        "CODIGO": "N7",
+        "COMPAÑÍA AEREA": "National Airlines Inc."
+    },
+    {
+        "PREFIJO": "12",
+        "CODIGO": "NW",
+        "COMPAÑÍA AEREA": "Northwest Airlines Inc."
+    },
+    {
+        "PREFIJO": "14",
+        "CODIGO": "AC",
+        "COMPAÑÍA AEREA": "Air Canada"
+    },
+    {
+        "PREFIJO": "15",
+        "CODIGO": "TW",
+        "COMPAÑÍA AEREA": "Trans World Airlines Inc."
+    },
+    {
+        "PREFIJO": "16",
+        "CODIGO": "UA",
+        "COMPAÑÍA AEREA": "United Airlines, Inc."
+    },
+    {
+        "PREFIJO": "18",
+        "CODIGO": "CP",
+        "COMPAÑÍA AEREA": "Canadian Airlines International"
+    },
+    {
+        "PREFIJO": "20",
+        "CODIGO": "LH",
+        "COMPAÑÍA AEREA": "Lufthansa Cargo AG"
+    },
+    {
+        "PREFIJO": "22",
+        "CODIGO": "5U",
+        "COMPAÑÍA AEREA": "L.A.D.E. Líneas Aéreas del Estado"
+    },
+    {
+        "PREFIJO": "23",
+        "CODIGO": "FX",
+        "COMPAÑÍA AEREA": "Federal Express Corp. (FedEX)"
+    },
+    {
+        "PREFIJO": "27",
+        "CODIGO": "AS",
+        "COMPAÑÍA AEREA": "Alaska Airlines Inc."
+    },
+    {
+        "PREFIJO": "28",
+        "CODIGO": "7Q",
+        "COMPAÑÍA AEREA": "Air Venezuela L.T.A."
+    },
+    {
+        "PREFIJO": "37",
+        "CODIGO": "US",
+        "COMPAÑÍA AEREA": "US Airways"
+    },
+    {
+        "PREFIJO": "42",
+        "CODIGO": "RG",
+        "COMPAÑÍA AEREA": "Varig S.A."
+    },
+    {
+        "PREFIJO": "44",
+        "CODIGO": "AR",
+        "COMPAÑÍA AEREA": "Aerolíneas Argentinas"
+    },
+    {
+        "PREFIJO": "45",
+        "CODIGO": "LA",
+        "COMPAÑÍA AEREA": "Lan Chile S.A."
+    },
+    {
+        "PREFIJO": "47",
+        "CODIGO": "TP",
+        "COMPAÑÍA AEREA": "TAP - Air Portugal"
+    },
+    {
+        "PREFIJO": "48",
+        "CODIGO": "CY",
+        "COMPAÑÍA AEREA": "Cyprus Airways"
+    },
+    {
+        "PREFIJO": "49",
+        "CODIGO": "DR",
+        "COMPAÑÍA AEREA": "Mediterranean Air Service"
+    },
+    {
+        "PREFIJO": "50",
+        "CODIGO": "OA",
+        "COMPAÑÍA AEREA": "Olympic Airways"
+    },
+    {
+        "PREFIJO": "51",
+        "CODIGO": "LB",
+        "COMPAÑÍA AEREA": "Lloyd Aero Boliviano (LAB)"
+    },
+    {
+        "PREFIJO": "53",
+        "CODIGO": "EI",
+        "COMPAÑÍA AEREA": "Aer Lingus Cargo"
+    },
+    {
+        "PREFIJO": "55",
+        "CODIGO": "AZ",
+        "COMPAÑÍA AEREA": "Alitalia - Linee Aeree Italiane"
+    },
+    {
+        "PREFIJO": "57",
+        "CODIGO": "AF",
+        "COMPAÑÍA AEREA": "Air France"
+    },
+    {
+        "PREFIJO": "58",
+        "CODIGO": "IC",
+        "COMPAÑÍA AEREA": "Indian Airlines"
+    },
+    {
+        "PREFIJO": "63",
+        "CODIGO": "SB",
+        "COMPAÑÍA AEREA": "Air Caledonie International"
+    },
+    {
+        "PREFIJO": "64",
+        "CODIGO": "OK",
+        "COMPAÑÍA AEREA": "CSA Cxech Airlines"
+    },
+    {
+        "PREFIJO": "65",
+        "CODIGO": "SV",
+        "COMPAÑÍA AEREA": "Saudi Arabian Airlines"
+    },
+    {
+        "PREFIJO": "68",
+        "CODIGO": "TM",
+        "COMPAÑÍA AEREA": "LAM - Linhas Aereas Mocambique"
+    },
+    {
+        "PREFIJO": "69",
+        "CODIGO": "MJ",
+        "COMPAÑÍA AEREA": "Lineas Aereas Privadas Argentinas"
+    },
+    {
+        "PREFIJO": "70",
+        "CODIGO": "RB",
+        "COMPAÑÍA AEREA": "Syrian Arab Airlines"
+    },
+    {
+        "PREFIJO": "71",
+        "CODIGO": "ET",
+        "COMPAÑÍA AEREA": "Ethiopian Airlines Enterprise"
+    },
+    {
+        "PREFIJO": "72",
+        "CODIGO": "GF",
+        "COMPAÑÍA AEREA": "Gulf Air Company G.S.C."
+    },
+    {
+        "PREFIJO": "73",
+        "CODIGO": "IA",
+        "COMPAÑÍA AEREA": "Iraqi Airways"
+    },
+    {
+        "PREFIJO": "74",
+        "CODIGO": "KL",
+        "COMPAÑÍA AEREA": "KLM Royal Dutch Airlines"
+    },
+    {
+        "PREFIJO": "75",
+        "CODIGO": "IB",
+        "COMPAÑÍA AEREA": "Iberia Líneas Aéreas de España"
+    },
+    {
+        "PREFIJO": "76",
+        "CODIGO": "ME",
+        "COMPAÑÍA AEREA": "Middle East Airlines AirLiban"
+    },
+    {
+        "PREFIJO": "77",
+        "CODIGO": "MS",
+        "COMPAÑÍA AEREA": "Egyptair"
+    },
+    {
+        "PREFIJO": "79",
+        "CODIGO": "PR",
+        "COMPAÑÍA AEREA": "Philippine Airlines Inc."
+    },
+    {
+        "PREFIJO": "80",
+        "CODIGO": "LO",
+        "COMPAÑÍA AEREA": "LOT - Polish Airlines"
+    },
+    {
+        "PREFIJO": "81",
+        "CODIGO": "QF",
+        "COMPAÑÍA AEREA": "Qantas Airways Ltd."
+    },
+    {
+        "PREFIJO": "82",
+        "CODIGO": "SN",
+        "COMPAÑÍA AEREA": "SABENA"
+    },
+    {
+        "PREFIJO": "83",
+        "CODIGO": "SA",
+        "COMPAÑÍA AEREA": "South African Airways"
+    },
+    {
+        "PREFIJO": "85",
+        "CODIGO": "SR",
+        "COMPAÑÍA AEREA": "Swiss Air Transport Co. (Swissair)"
+    },
+    {
+        "PREFIJO": "86",
+        "CODIGO": "NZ",
+        "COMPAÑÍA AEREA": "Air New Zealand Ltd."
+    },
+    {
+        "PREFIJO": "87",
+        "CODIGO": "WT",
+        "COMPAÑÍA AEREA": "Nigeria Airways Ltd."
+    },
+    {
+        "PREFIJO": "90",
+        "CODIGO": "AN",
+        "COMPAÑÍA AEREA": "Ansett Australia"
+    },
+    {
+        "PREFIJO": "91",
+        "CODIGO": "DP",
+        "COMPAÑÍA AEREA": "Air 2000 Ltd."
+    },
+    {
+        "PREFIJO": "92",
+        "CODIGO": "RK",
+        "COMPAÑÍA AEREA": "Air Afrique"
+    },
+    {
+        "PREFIJO": "93",
+        "CODIGO": "WG",
+        "COMPAÑÍA AEREA": "Wasaya Airways Ltd."
+    },
+    {
+        "PREFIJO": "95",
+        "CODIGO": "6A",
+        "COMPAÑÍA AEREA": "AVIACSA"
+    },
+    {
+        "PREFIJO": "96",
+        "CODIGO": "IR",
+        "COMPAÑÍA AEREA": "Iran Air"
+    },
+    {
+        "PREFIJO": "98",
+        "CODIGO": "AI",
+        "COMPAÑÍA AEREA": "Air India Ltd."
+    },
+    {
+        "PREFIJO": "100",
+        "CODIGO": "JQ",
+        "COMPAÑÍA AEREA": "Air Jamaican Express Ltd."
+    },
+    {
+        "PREFIJO": "108",
+        "CODIGO": "FI",
+        "COMPAÑÍA AEREA": "Icelandair"
+    },
+    {
+        "PREFIJO": "109",
+        "CODIGO": "L9",
+        "COMPAÑÍA AEREA": "Air Mali S.A."
+    },
+    {
+        "PREFIJO": "110",
+        "CODIGO": "AO",
+        "COMPAÑÍA AEREA": "Aviación Y Comercio S.A. (Aviaco)"
+    },
+    {
+        "PREFIJO": "112",
+        "CODIGO": "CK",
+        "COMPAÑÍA AEREA": "China Cargo Airlines Ltd."
+    },
+    {
+        "PREFIJO": "114",
+        "CODIGO": "LY",
+        "COMPAÑÍA AEREA": "EL AL Israel Airlines Ltd."
+    },
+    {
+        "PREFIJO": "115",
+        "CODIGO": "JU",
+        "COMPAÑÍA AEREA": "Jugoslovenski Aerotransporr (JAT)"
+    },
+    {
+        "PREFIJO": "117",
+        "CODIGO": "SK",
+        "COMPAÑÍA AEREA": "Scandinavian Airlines System (SAS)"
+    },
+    {
+        "PREFIJO": "118",
+        "CODIGO": "DT",
+        "COMPAÑÍA AEREA": "TAAG Linhas Aereas de Angola"
+    },
+    {
+        "PREFIJO": "124",
+        "CODIGO": "AH",
+        "COMPAÑÍA AEREA": "Air Algerie"
+    },
+    {
+        "PREFIJO": "125",
+        "CODIGO": "BA",
+        "COMPAÑÍA AEREA": "British Airways P.L.C."
+    },
+    {
+        "PREFIJO": "129",
+        "CODIGO": "MP",
+        "COMPAÑÍA AEREA": "Martinair Holland N.V."
+    },
+    {
+        "PREFIJO": "130",
+        "CODIGO": "UK",
+        "COMPAÑÍA AEREA": "KLM uk Ltd."
+    },
+    {
+        "PREFIJO": "131",
+        "CODIGO": "JL",
+        "COMPAÑÍA AEREA": "Japan Airlines Company"
+    },
+    {
+        "PREFIJO": "132",
+        "CODIGO": "MX",
+        "COMPAÑÍA AEREA": " Mexicana de Aviación"
+    },
+    {
+        "PREFIJO": "133",
+        "CODIGO": "LR",
+        "COMPAÑÍA AEREA": "Lineas Aereas Costarricenses"
+    },
+    {
+        "PREFIJO": "134",
+        "CODIGO": "AV",
+        "COMPAÑÍA AEREA": "Avianca"
+    },
+    {
+        "PREFIJO": "135",
+        "CODIGO": "VT",
+        "COMPAÑÍA AEREA": "Air Tahiti"
+    },
+    {
+        "PREFIJO": "136",
+        "CODIGO": "CU",
+        "COMPAÑÍA AEREA": "Cubana de Aviación S.A."
+    },
+    {
+        "PREFIJO": "137",
+        "CODIGO": "VX",
+        "COMPAÑÍA AEREA": "Aerolíneas Centrales de Colombia"
+    },
+    {
+        "PREFIJO": "138",
+        "CODIGO": "HG",
+        "COMPAÑÍA AEREA": "Haiti International Airlines"
+    },
+    {
+        "PREFIJO": "139",
+        "CODIGO": "AM",
+        "COMPAÑÍA AEREA": "Aeroméxico"
+    },
+    {
+        "PREFIJO": "143",
+        "CODIGO": "AU",
+        "COMPAÑÍA AEREA": "Cielos del Sur/Austral Líneas Aéreas"
+    },
+    {
+        "PREFIJO": "145",
+        "CODIGO": "UC",
+        "COMPAÑÍA AEREA": "Ladeco S.A./Ladeco Airlines"
+    },
+    {
+        "PREFIJO": "147",
+        "CODIGO": "AT",
+        "COMPAÑÍA AEREA": "Royal Air Maroc"
+    },
+    {
+        "PREFIJO": "148",
+        "CODIGO": "LN",
+        "COMPAÑÍA AEREA": "Jamahiriya Libyan Arab Airlines"
+    },
+    {
+        "PREFIJO": "149",
+        "CODIGO": "LG",
+        "COMPAÑÍA AEREA": "Luxair"
+    },
+    {
+        "PREFIJO": "152",
+        "CODIGO": "VH",
+        "COMPAÑÍA AEREA": "Aeropostal Alas de Venezuela"
+    },
+    {
+        "PREFIJO": "155",
+        "CODIGO": "ES",
+        "COMPAÑÍA AEREA": "DHL International E.C."
+    },
+    {
+        "PREFIJO": "156",
+        "CODIGO": "EH",
+        "COMPAÑÍA AEREA": " SAETA Soc Ecuatoriana de Ttes Aereos"
+    },
+    {
+        "PREFIJO": "157",
+        "CODIGO": "QR",
+        "COMPAÑÍA AEREA": "Qatar Airways (W.L.L.)"
+    },
+    {
+        "PREFIJO": "159",
+        "CODIGO": "ND",
+        "COMPAÑÍA AEREA": "Airlink Limited"
+    },
+    {
+        "PREFIJO": "160",
+        "CODIGO": "CX",
+        "COMPAÑÍA AEREA": "Cathay Pacific Airways"
+    },
+    {
+        "PREFIJO": "162",
+        "CODIGO": "PH",
+        "COMPAÑÍA AEREA": "Polynesian Limited"
+    },
+    {
+        "PREFIJO": "165",
+        "CODIGO": "JP",
+        "COMPAÑÍA AEREA": "Adria Airways"
+    },
+    {
+        "PREFIJO": "170",
+        "CODIGO": "GE",
+        "COMPAÑÍA AEREA": "Trans Asia Airways"
+    },
+    {
+        "PREFIJO": "172",
+        "CODIGO": "CV",
+        "COMPAÑÍA AEREA": "Cargolux Airlines International"
+    },
+    {
+        "PREFIJO": "173",
+        "CODIGO": "HA",
+        "COMPAÑÍA AEREA": "Hawaiian Airlines"
+    },
+    {
+        "PREFIJO": "174",
+        "CODIGO": "MR",
+        "COMPAÑÍA AEREA": "Air Mauritanie"
+    },
+    {
+        "PREFIJO": "176",
+        "CODIGO": "EK",
+        "COMPAÑÍA AEREA": "Emirates"
+    },
+    {
+        "PREFIJO": "180",
+        "CODIGO": "KE",
+        "COMPAÑÍA AEREA": "Korean Air Lines Co. Ltd."
+    },
+    {
+        "PREFIJO": "190",
+        "CODIGO": "TY",
+        "COMPAÑÍA AEREA": "Air Caledonie"
+    },
+    {
+        "PREFIJO": "202",
+        "CODIGO": "TA",
+        "COMPAÑÍA AEREA": "TACA International Airlines"
+    },
+    {
+        "PREFIJO": "205",
+        "CODIGO": "NH",
+        "COMPAÑÍA AEREA": "All Nippon Airways Co. Ltd."
+    },
+    {
+        "PREFIJO": "210",
+        "CODIGO": "PL",
+        "COMPAÑÍA AEREA": "Aeroperu"
+    },
+    {
+        "PREFIJO": "214",
+        "CODIGO": "PK",
+        "COMPAÑÍA AEREA": "Pakistan International Airlines"
+    },
+    {
+        "PREFIJO": "220",
+        "CODIGO": "LH",
+        "COMPAÑÍA AEREA": "Deutsche  Lufthansa AG"
+    },
+    {
+        "PREFIJO": "229",
+        "CODIGO": "KU",
+        "COMPAÑÍA AEREA": "Kuwait Airways"
+    },
+    {
+        "PREFIJO": "230",
+        "CODIGO": "CM",
+        "COMPAÑÍA AEREA": "COPA"
+    },
+    {
+        "PREFIJO": "232",
+        "CODIGO": "MH",
+        "COMPAÑÍA AEREA": "Malaysian Airlines System Berhad"
+    },
+    {
+        "PREFIJO": "234",
+        "CODIGO": "JD",
+        "COMPAÑÍA AEREA": "Japan Air System Company"
+    },
+    {
+        "PREFIJO": "235",
+        "CODIGO": "TK",
+        "COMPAÑÍA AEREA": "Turkish Airlines"
+    },
+    {
+        "PREFIJO": "236",
+        "CODIGO": "BD",
+        "COMPAÑÍA AEREA": "British Midland Airways Ltd."
+    },
+    {
+        "PREFIJO": "242",
+        "CODIGO": "A4",
+        "COMPAÑÍA AEREA": "Southern Winds S.A."
+    },
+    {
+        "PREFIJO": "245",
+        "CODIGO": "7F",
+        "COMPAÑÍA AEREA": "Finnair Air"
+    },
+    {
+        "PREFIJO": "260",
+        "CODIGO": "FJ",
+        "COMPAÑÍA AEREA": "Air Pacific Ltd."
+    },
+    {
+        "PREFIJO": "269",
+        "CODIGO": "EQ",
+        "COMPAÑÍA AEREA": "TAME Linea Aerea Del Ecuador"
+    },
+    {
+        "PREFIJO": "278",
+        "CODIGO": "FS",
+        "COMPAÑÍA AEREA": "Servicios de Ttes Aereos Fueguinos"
+    },
+    {
+        "PREFIJO": "284",
+        "CODIGO": "T2",
+        "COMPAÑÍA AEREA": "Thai Air Cargo Co. Ltd."
+    },
+    {
+        "PREFIJO": "286",
+        "CODIGO": "PU",
+        "COMPAÑÍA AEREA": "PLUNA"
+    },
+    {
+        "PREFIJO": "297",
+        "CODIGO": "CI",
+        "COMPAÑÍA AEREA": "China Airlines"
+    },
+    {
+        "PREFIJO": "341",
+        "CODIGO": "EU",
+        "COMPAÑÍA AEREA": "Ecuatoriana de Aviación S.A."
+    },
+    {
+        "PREFIJO": "343",
+        "CODIGO": "VP",
+        "COMPAÑÍA AEREA": "VASP"
+    },
+    {
+        "PREFIJO": "349",
+        "CODIGO": "KM",
+        "COMPAÑÍA AEREA": "Maersk Air"
+    },
+    {
+        "PREFIJO": "353",
+        "CODIGO": "UN",
+        "COMPAÑÍA AEREA": "Japan Transocean Air Co. Ltd."
+    },
+    {
+        "PREFIJO": "401",
+        "CODIGO": "HP",
+        "COMPAÑÍA AEREA": "America West Airlines Inc."
+    },
+    {
+        "PREFIJO": "403",
+        "CODIGO": "PO",
+        "COMPAÑÍA AEREA": "Polair Air Cargo, Inc."
+    },
+    {
+        "PREFIJO": "404",
+        "CODIGO": "JW",
+        "COMPAÑÍA AEREA": "Arrow Air Inc."
+    },
+    {
+        "PREFIJO": "406",
+        "CODIGO": "5X",
+        "COMPAÑÍA AEREA": "UPS"
+    },
+    {
+        "PREFIJO": "423",
+        "CODIGO": "ER",
+        "COMPAÑÍA AEREA": "DHL Airways"
+    },
+    {
+        "PREFIJO": "429",
+        "CODIGO": "D7",
+        "COMPAÑÍA AEREA": "Dinar Lineas Aéreas S.A."
+    },
+    {
+        "PREFIJO": "430",
+        "CODIGO": "9E",
+        "COMPAÑÍA AEREA": "Express Airlines, Inc."
+    },
+    {
+        "PREFIJO": "466",
+        "CODIGO": "5Z",
+        "COMPAÑÍA AEREA": "Airfreight Express Ltd."
+    },
+    {
+        "PREFIJO": "468",
+        "CODIGO": "WO",
+        "COMPAÑÍA AEREA": "World Airways"
+    },
+    {
+        "PREFIJO": "471",
+        "CODIGO": "ZV",
+        "COMPAÑÍA AEREA": "Air Midwest"
+    },
+    {
+        "PREFIJO": "472",
+        "CODIGO": "BN",
+        "COMPAÑÍA AEREA": "Forward Air International Airlines"
+    },
+    {
+        "PREFIJO": "480",
+        "CODIGO": "DH",
+        "COMPAÑÍA AEREA": "Atlantic Coast Airlines/United Exp."
+    },
+    {
+        "PREFIJO": "486",
+        "CODIGO": "8G",
+        "COMPAÑÍA AEREA": "Gulf & Caribbean Cargo"
+    },
+    {
+        "PREFIJO": "494",
+        "CODIGO": "EZ",
+        "COMPAÑÍA AEREA": "Evergreen International Airlines"
+    },
+    {
+        "PREFIJO": "527",
+        "CODIGO": "UC",
+        "COMPAÑÍA AEREA": "LADECO Cargo"
+    },
+    {
+        "PREFIJO": "528",
+        "CODIGO": "ZN",
+        "COMPAÑÍA AEREA": "Eagle Airlines Luftverkehrsges"
+    },
+    {
+        "PREFIJO": "529",
+        "CODIGO": "A2",
+        "COMPAÑÍA AEREA": "Cielos del Peru S.A."
+    },
+    {
+        "PREFIJO": "532",
+        "CODIGO": "E4",
+        "COMPAÑÍA AEREA": "Aero Asia International Ltd."
+    },
+    {
+        "PREFIJO": "544",
+        "CODIGO": "LP",
+        "COMPAÑÍA AEREA": "Lan Peru S.A."
+    },
+    {
+        "PREFIJO": "550",
+        "CODIGO": "BL",
+        "COMPAÑÍA AEREA": "Pacific Airlines Co. Ltd."
+    },
+    {
+        "PREFIJO": "553",
+        "CODIGO": "FC",
+        "COMPAÑÍA AEREA": "Falcon Express Cargo Airlines"
+    },
+    {
+        "PREFIJO": "555",
+        "CODIGO": "SU",
+        "COMPAÑÍA AEREA": "Aeroflot"
+    },
+    {
+        "PREFIJO": "591",
+        "CODIGO": "EB",
+        "COMPAÑÍA AEREA": "Emery Worldwide Airlines Inc."
+    },
+    {
+        "PREFIJO": "592",
+        "CODIGO": "3Q",
+        "COMPAÑÍA AEREA": "China Yunnan Airlines"
+    },
+    {
+        "PREFIJO": "608",
+        "CODIGO": "RS",
+        "COMPAÑÍA AEREA": "Intercontinental de Aviación"
+    },
+    {
+        "PREFIJO": "617",
+        "CODIGO": "HF",
+        "COMPAÑÍA AEREA": "Hapag Lloyd Fluggesellschaft"
+    },
+    {
+        "PREFIJO": "618",
+        "CODIGO": "SQ",
+        "COMPAÑÍA AEREA": "Singapore Airlines"
+    },
+    {
+        "PREFIJO": "619",
+        "CODIGO": "F6",
+        "COMPAÑÍA AEREA": "China National Aviation Corp."
+    },
+    {
+        "PREFIJO": "653",
+        "CODIGO": "TR",
+        "COMPAÑÍA AEREA": "Transbrasil S.A. Linhas Aereas"
+    },
+    {
+        "PREFIJO": "667",
+        "CODIGO": "PE",
+        "COMPAÑÍA AEREA": "Air Europe S.p.A."
+    },
+    {
+        "PREFIJO": "680",
+        "CODIGO": "JK",
+        "COMPAÑÍA AEREA": "Spanair S.A."
+    },
+    {
+        "PREFIJO": "683",
+        "CODIGO": "CL",
+        "COMPAÑÍA AEREA": "Lufthansa CityLine GmbH"
+    },
+    {
+        "PREFIJO": "688",
+        "CODIGO": "EG",
+        "COMPAÑÍA AEREA": "Japan Asia Airways Co.Ltd."
+    },
+    {
+        "PREFIJO": "692",
+        "CODIGO": "PZ",
+        "COMPAÑÍA AEREA": "TAM S.A."
+    },
+    {
+        "PREFIJO": "695",
+        "CODIGO": "BR",
+        "COMPAÑÍA AEREA": "EVA Airways Corporation"
+    },
+    {
+        "PREFIJO": "700",
+        "CODIGO": "5C",
+        "COMPAÑÍA AEREA": "C.A.L. Cargo Airlines"
+    },
+    {
+        "PREFIJO": "702",
+        "CODIGO": "VB",
+        "COMPAÑÍA AEREA": "Maersk Air Ltd."
+    },
+    {
+        "PREFIJO": "708",
+        "CODIGO": "JO",
+        "COMPAÑÍA AEREA": "JALways Co. Ltd."
+    },
+    {
+        "PREFIJO": "725",
+        "CODIGO": "YU",
+        "COMPAÑÍA AEREA": "Aerolíneas Dominicanas S.A."
+    },
+    {
+        "PREFIJO": "731",
+        "CODIGO": "MF",
+        "COMPAÑÍA AEREA": "Xiamen Airlines Company"
+    },
+    {
+        "PREFIJO": "768",
+        "CODIGO": "EL",
+        "COMPAÑÍA AEREA": "Air Nippon Co."
+    },
+    {
+        "PREFIJO": "774",
+        "CODIGO": "FM",
+        "COMPAÑÍA AEREA": "Shangai Airlines"
+    },
+    {
+        "PREFIJO": "779",
+        "CODIGO": "XW",
+        "COMPAÑÍA AEREA": "China Xinhua Airlines"
+    },
+    {
+        "PREFIJO": "781",
+        "CODIGO": "MU",
+        "COMPAÑÍA AEREA": "China Eastern Airlines"
+    },
+    {
+        "PREFIJO": "782",
+        "CODIGO": "CJ",
+        "COMPAÑÍA AEREA": "China Northern Airlines"
+    },
+    {
+        "PREFIJO": "783",
+        "CODIGO": "WH",
+        "COMPAÑÍA AEREA": "China Northwest Airlines"
+    },
+    {
+        "PREFIJO": "784",
+        "CODIGO": "CZ",
+        "COMPAÑÍA AEREA": "China Southern Airlines"
+    },
+    {
+        "PREFIJO": "785",
+        "CODIGO": "SZ",
+        "COMPAÑÍA AEREA": "China Southwest Airlines"
+    },
+    {
+        "PREFIJO": "824",
+        "CODIGO": "XT",
+        "COMPAÑÍA AEREA": "KLM Exel"
+    },
+    {
+        "PREFIJO": "832",
+        "CODIGO": "GB",
+        "COMPAÑÍA AEREA": "ABX Air, Inc."
+    },
+    {
+        "PREFIJO": "865",
+        "CODIGO": "MY",
+        "COMPAÑÍA AEREA": "Aerotransportes Mas de Carga"
+    },
+    {
+        "PREFIJO": "877",
+        "CODIGO": "KK",
+        "COMPAÑÍA AEREA": "TAM Transportes Aereos Regionais"
+    },
+    {
+        "PREFIJO": "898",
+        "CODIGO": "ML",
+        "COMPAÑÍA AEREA": "Olympic Aviation S.A."
+    },
+    {
+        "PREFIJO": "929",
+        "CODIGO": "N6",
+        "COMPAÑÍA AEREA": "Aero Continente"
+    },
+    {
+        "PREFIJO": "933",
+        "CODIGO": "KZ",
+        "COMPAÑÍA AEREA": "Nippon Cargo Airlines"
+    },
+    {
+        "PREFIJO": "941",
+        "CODIGO": "ZQ",
+        "COMPAÑÍA AEREA": "Ansett New Zealand"
+    },
+    {
+        "PREFIJO": "942",
+        "CODIGO": "VW",
+        "COMPAÑÍA AEREA": "Transportes Aeromar"
+    },
+    {
+        "PREFIJO": "957",
+        "CODIGO": "JJ",
+        "COMPAÑÍA AEREA": "TAM Ttes. Aereos Meridionais"
+    },
+    {
+        "PREFIJO": "970",
+        "CODIGO": "BX",
+        "COMPAÑÍA AEREA": "Coast Air K.S."
+    },
+    {
+        "PREFIJO": "992",
+        "CODIGO": "D5",
+        "COMPAÑÍA AEREA": "DHL Aero Expresso"
+    },
+    {
+        "PREFIJO": "996",
+        "CODIGO": "UX",
+        "COMPAÑÍA AEREA": "Air Europa Lineas Aereas"
+    },
+    {
+        "PREFIJO": "999",
+        "CODIGO": "CA",
+        "COMPAÑÍA AEREA": "Air China International Corp."
+    }
+]
