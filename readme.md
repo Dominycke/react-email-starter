@@ -25,3 +25,10 @@ Open [localhost:3000](http://localhost:3000) with your browser to see the result
 ## License
 
 MIT License
+
+
+![Vista del proyecto](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
